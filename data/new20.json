@@ -1,0 +1,1502 @@
+[
+  {
+    "_id": "6800590d8308433daa97cc32",
+    "name": "Oats Overnight",
+    "website": "oatsovernight.com",
+    "vertical": "Food & Beverage",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Food & Beverage",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 1602351.850263956
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 1530160.886267951
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 1332217.8028991164
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 1199402.368018569
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 1303199.3524418247
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 1127339.2241803554
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 1368484.1203938362
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1342125.4714933257
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 945054.1794673761
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 2199066.665489134
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 1754450.6632755403
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 1579420.321655445
+      }
+    ],
+    "TTM_Sessions": 17283272.91,
+    "Industry Average AOV": "$80.09",
+    "Industry Average CVR": "2.19%",
+    "Estimated Revenue Lift": "$6,754,974",
+    "Estimated DTC Revenue Current": "$30,314,359",
+    "Estimated DTC Orders Current": "378,504",
+    "Estimated Blended AOV Current": "$80",
+    "Estimated DTC Revenue After": "$37,069,333",
+    "Estimated DTC Orders After": "452,647",
+    "Estimated Blended AOV After\r": "$81.89\r"
+  },
+  {
+    "_id": "6800590d8308433daa97cc3c",
+    "name": "BRUNT Workwear",
+    "website": "bruntworkwear.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Gen X + Older-Millennial core",
+    "Age Demographic Description": "Heavier concentration of 35–54",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Male Core Audience",
+    "Gender Description": "Clear male skew",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 912114.9121389716
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 894808.3038997537
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 1036195.9465206029
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 639339.9933126804
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 633750.9604861559
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 665655.0021003196
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 914256.7814973592
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1342106.1053056114
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1487053.716862201
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 1296136.7816196026
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 1203992.404395135
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 1329670.072027439
+      }
+    ],
+    "TTM_Sessions": 12355080.98,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$5,204,634",
+    "Estimated DTC Revenue Current": "$23,356,885",
+    "Estimated DTC Orders Current": "252,044",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$28,561,519",
+    "Estimated DTC Orders After": "301,416",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "6800590f8308433daa97cc6c",
+    "name": "Fear of God",
+    "website": "fearofgod.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "U.S.-Centric Global Blend",
+    "Geography Description": "U.S. leads, with diversified global reach",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 1444787.5848742176
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 1189701.6568777948
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 1101344.8870592373
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 1304397.9016688499
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 1309382.7677786823
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 1322966.911336244
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 1694819.557194707
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 2477613.914882455
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 2417746.779602699
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 1760259.4159019957
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 1532882.1069843112
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 1610043.7006412381
+      }
+    ],
+    "TTM_Sessions": 19165947.18,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$8,073,742",
+    "Estimated DTC Revenue Current": "$36,232,610",
+    "Estimated DTC Orders Current": "390,985",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$44,306,352",
+    "Estimated DTC Orders After": "467,574",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "680059108308433daa97cc7c",
+    "name": "Birdy Grey",
+    "website": "birdygrey.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Female Core Audience",
+    "Gender Description": "Overwhelmingly female audience",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 2324882.638052131
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 1950452.059048035
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 1515760.3544260936
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 1757199.2211883785
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 1452497.1689172303
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 1281430.291713963
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 1042375.29513212
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1672836.0073002726
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1680670.5064330087
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 2165585.7746488936
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 2170799.323773499
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 2468374.6317742127
+      }
+    ],
+    "TTM_Sessions": 21482863.27,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$9,049,754",
+    "Estimated DTC Revenue Current": "$40,612,666",
+    "Estimated DTC Orders Current": "438,250",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$49,662,419",
+    "Estimated DTC Orders After": "524,098",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "680059158308433daa97ccea",
+    "name": "Owala",
+    "website": "owalalife.com",
+    "vertical": "Home & Hobby",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Female Majority",
+    "Gender Description": "Clear female skew",
+    "Vertical Tag": "Home & Hobby",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 2687529.432970235
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 3076624.339253766
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 2387158.4610533393
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 3000495.5139414757
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 4483506.450332649
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 3749834.850389962
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 3427897.078320016
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 5271110.1054287115
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 4132893.6930789026
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 5615097.577580727
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 5162694.268245174
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 5319967.99819682
+      }
+    ],
+    "TTM_Sessions": 48314809.77,
+    "Industry Average AOV": "$90.37",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$19,847,691",
+    "Estimated DTC Revenue Current": "$89,070,671",
+    "Estimated DTC Orders Current": "985,622",
+    "Estimated Blended AOV Current": "$90",
+    "Estimated DTC Revenue After": "$108,918,362",
+    "Estimated DTC Orders After": "1,178,692",
+    "Estimated Blended AOV After\r": "$92.41\r"
+  },
+  {
+    "_id": "6800591a8308433daa97cd6c",
+    "name": "Montana Knife Company",
+    "website": "montanaknifecompany.com",
+    "vertical": "Home & Hobby",
+    "Age Demographic Tag": "Boomer-heavy",
+    "Age Demographic Description": "Heavier concentration of 55+",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Male Core Audience",
+    "Gender Description": "Clear male skew",
+    "Vertical Tag": "Home & Hobby",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 128868.24540446015
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 197877.42206888384
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 196634.57542565948
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 221853.77104686393
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 322214.81506198674
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 288358.3125153411
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 246380.49332781162
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 312644.49186628824
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 387456.5580633485
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 325021.0462633218
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 305037.3304403394
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 292893.3971733085
+      }
+    ],
+    "TTM_Sessions": 3225240.459,
+    "Industry Average AOV": "$90.37",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$1,324,927",
+    "Estimated DTC Revenue Current": "$5,945,886",
+    "Estimated DTC Orders Current": "65,795",
+    "Estimated Blended AOV Current": "$90",
+    "Estimated DTC Revenue After": "$7,270,812",
+    "Estimated DTC Orders After": "78,683",
+    "Estimated Blended AOV After\r": "$92.41\r"
+  },
+  {
+    "_id": "6800591d8308433daa97cdbc",
+    "name": "Urban Body Jewelry",
+    "website": "urbanbodyjewelry.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Female Majority",
+    "Gender Description": "Clear female skew",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 362051.13359627285
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 375609.30821196607
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 301735.7636929375
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 361458.7261884619
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 363753.3936118932
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 373542.58746019483
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 446539.9275193502
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 384807.9978567457
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 386386.7569372343
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 382399.76606206386
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 371340.04357473855
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 395033.3658181479
+      }
+    ],
+    "TTM_Sessions": 4504658.771,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$1,897,608",
+    "Estimated DTC Revenue Current": "$8,515,913",
+    "Estimated DTC Orders Current": "91,895",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$10,413,521",
+    "Estimated DTC Orders After": "109,896",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "6800591f8308433daa97cde4",
+    "name": "Worn & Wound Shop",
+    "website": "wornandwound.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "U.S.-Centric Global Blend",
+    "Geography Description": "U.S. leads, with diversified global reach",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Heavily Male",
+    "Gender Description": "Overwhelmingly male audience",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 787565.6729293138
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 758344.0418832583
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 687413.1168146954
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 756973.4341171415
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 716220.037843507
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 643188.9210788673
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 685030.9565932542
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 673800.3667292981
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 732163.5355658659
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 740744.7249724434
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 665534.3618070672
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 725833.1010319781
+      }
+    ],
+    "TTM_Sessions": 8572812.271,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$3,611,336",
+    "Estimated DTC Revenue Current": "$16,206,627",
+    "Estimated DTC Orders Current": "174,885",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$19,817,963",
+    "Estimated DTC Orders After": "209,143",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "680059298308433daa97cec8",
+    "name": "inkbox tattoos",
+    "website": "inkbox.com",
+    "vertical": "Beauty & Cosmetics",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "U.S.-Centric Global Blend",
+    "Geography Description": "U.S. leads, with diversified global reach",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Beauty & Cosmetics",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 1087086.3435101388
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 968016.8671442103
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 911414.1763461615
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 1200938.2928900558
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 1079997.1699280967
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 961709.6912076029
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 908375.1675684463
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 867199.4716231127
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 909057.1709577017
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 897985.4718739555
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 813227.1762897497
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 834407.6341490833
+      }
+    ],
+    "TTM_Sessions": 11439414.63,
+    "Industry Average AOV": "$75.57",
+    "Industry Average CVR": "2.73%",
+    "Estimated Revenue Lift": "$5,258,854",
+    "Estimated DTC Revenue Current": "$23,600,210",
+    "Estimated DTC Orders Current": "312,296",
+    "Estimated Blended AOV Current": "$76",
+    "Estimated DTC Revenue After": "$28,859,065",
+    "Estimated DTC Orders After": "373,470",
+    "Estimated Blended AOV After\r": "$77.27\r"
+  },
+  {
+    "_id": "680059378308433daa97d01e",
+    "name": "Mack Weldon",
+    "website": "mackweldon.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Young-Millennial lean",
+    "Age Demographic Description": "25–34 is largest; no band ≥ 30%; no adjacent pair ≥ 50%",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 482782.4168533891
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 480611.3113305334
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 367443.0468509689
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 450604.7487099894
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 351596.4596296544
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 414709.166991326
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 516805.67971416825
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 685271.4709156282
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 674330.0989828291
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 492029.24568855367
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 367628.7605761848
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 502120.68585231074
+      }
+    ],
+    "TTM_Sessions": 5785933.092,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$2,437,351",
+    "Estimated DTC Revenue Current": "$10,938,121",
+    "Estimated DTC Orders Current": "118,033",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$13,375,472",
+    "Estimated DTC Orders After": "141,154",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "680059388308433daa97d036",
+    "name": "Warmies USA",
+    "website": "warmies.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Young-Millennial lean",
+    "Age Demographic Description": "25–34 is largest; no band ≥ 30%; no adjacent pair ≥ 50%",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Female Majority",
+    "Gender Description": "Clear female skew",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 371853.8328600932
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 329177.3541812566
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 336676.13838020305
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 392914.62719406013
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 353097.10169472906
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 357056.2502978407
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 498435.9793008173
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 802317.6804077241
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1180120.1326553123
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 608871.457978189
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 629765.9754098211
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 402025.1643225178
+      }
+    ],
+    "TTM_Sessions": 6262311.695,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$2,638,027",
+    "Estimated DTC Revenue Current": "$11,838,700",
+    "Estimated DTC Orders Current": "127,751",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$14,476,727",
+    "Estimated DTC Orders After": "152,776",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "680059388308433daa97d03c",
+    "name": "Meat Church",
+    "website": "meatchurch.com",
+    "vertical": "Food & Beverage",
+    "Age Demographic Tag": "Gen X + Older-Millennial core",
+    "Age Demographic Description": "Heavier concentration of 35–54",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Male Core Audience",
+    "Gender Description": "Clear male skew",
+    "Vertical Tag": "Food & Beverage",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 287582.72338032234
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 307364.731604167
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 285229.39448482316
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 371242.2830961963
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 311273.1873479358
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 407249.5809283656
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 450292.4968987419
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 574894.1288978857
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 526304.4990760166
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 378483.2248197647
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 386982.14790035965
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 334056.96442967234
+      }
+    ],
+    "TTM_Sessions": 4620955.363,
+    "Industry Average AOV": "$80.09",
+    "Industry Average CVR": "2.19%",
+    "Estimated Revenue Lift": "$1,806,049",
+    "Estimated DTC Revenue Current": "$8,105,022",
+    "Estimated DTC Orders Current": "101,199",
+    "Estimated Blended AOV Current": "$80",
+    "Estimated DTC Revenue After": "$9,911,070",
+    "Estimated DTC Orders After": "121,022",
+    "Estimated Blended AOV After\r": "$81.89\r"
+  },
+  {
+    "_id": "680059398308433daa97d046",
+    "name": "Face Theory",
+    "website": "facetheory.com",
+    "vertical": "Beauty & Cosmetics",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "",
+    "Geography Description": "",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Female Majority",
+    "Gender Description": "Clear female skew",
+    "Vertical Tag": "Beauty & Cosmetics",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 561576.401979114
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 547683.4608564425
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 470320.7389913818
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 411050.06487828714
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 443607.44922038313
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 490646.88120318146
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 438282.2299044208
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 536036.5516989679
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 539210.0314716065
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 503626.6374922513
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 431130.0363687948
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 416554.0292948012
+      }
+    ],
+    "TTM_Sessions": 5789724.513,
+    "Industry Average AOV": "$75.57",
+    "Industry Average CVR": "2.73%",
+    "Estimated Revenue Lift": "$2,661,615",
+    "Estimated DTC Revenue Current": "$11,944,555",
+    "Estimated DTC Orders Current": "158,059",
+    "Estimated Blended AOV Current": "$76",
+    "Estimated DTC Revenue After": "$14,606,170",
+    "Estimated DTC Orders After": "189,021",
+    "Estimated Blended AOV After\r": "$77.27\r"
+  },
+  {
+    "_id": "680059438308433daa97d142",
+    "name": "CRAFTD US",
+    "website": "craftdlondon.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US + UK",
+    "Geography Description": "U.S. dominant with major U.K. market",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 619436.5304738407
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 930804.5222497508
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 1121163.472907586
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 981150.974630144
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 1066595.2574921558
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 1197651.0745696388
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 889806.9707206944
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1065152.630417827
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1416093.5781672592
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 1219914.1582509603
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 1037372.2140208548
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 980046.5253387539
+      }
+    ],
+    "TTM_Sessions": 12525187.91,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$5,276,292",
+    "Estimated DTC Revenue Current": "$23,678,467",
+    "Estimated DTC Orders Current": "255,514",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$28,954,759",
+    "Estimated DTC Orders After": "305,565",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "680059478308433daa97d19a",
+    "name": "Cotopaxi",
+    "website": "cotopaxi.com",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "",
+    "Geography Description": "",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 1165494.8630280313
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 1600620.3134818503
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 1096507.9078121018
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 1083157.8191158646
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 1765849.5570487548
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 1563071.224267906
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 1441998.538245656
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1947152.6486663087
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1772589.1346366415
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 1350479.060960353
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 1161067.502909731
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 1117160.3043273082
+      }
+    ],
+    "TTM_Sessions": 17065148.87,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$7,188,772",
+    "Estimated DTC Revenue Current": "$32,261,118",
+    "Estimated DTC Orders Current": "348,129",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$39,449,889",
+    "Estimated DTC Orders After": "416,323",
+    "Estimated Blended AOV After\r": "$94.76\r"
+  },
+  {
+    "_id": "6800594a8308433daa97d1e2",
+    "name": "Blueland",
+    "website": "blueland.com",
+    "vertical": "Home & Hobby",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US Dominant",
+    "Geography Description": "Traffic is overwhelmingly U.S.-based",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Female Majority",
+    "Gender Description": "Clear female skew",
+    "Vertical Tag": "Home & Hobby",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 469573.1411993095
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 486423.32877068536
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 533053.9779872426
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 513553.24965506047
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 421673.3252794644
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 446698.8065589041
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 459587.56046701025
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 619818.4346104503
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 623218.9335736207
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 558357.7128183771
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 524313.2728098825
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 594879.2973210785
+      }
+    ],
+    "TTM_Sessions": 6251151.041,
+    "Industry Average AOV": "$90.37",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$2,567,969",
+    "Estimated DTC Revenue Current": "$11,524,297",
+    "Estimated DTC Orders Current": "127,523",
+    "Estimated Blended AOV Current": "$90",
+    "Estimated DTC Revenue After": "$14,092,266",
+    "Estimated DTC Orders After": "152,504",
+    "Estimated Blended AOV After\r": "$92.41\r"
+  },
+  {
+    "_id": "6800594c8308433daa97d210",
+    "name": "OLAPLEX",
+    "website": "olaplex.com",
+    "vertical": "Beauty & Cosmetics",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "U.S.-Centric Global Blend",
+    "Geography Description": "U.S. leads, with diversified global reach",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Female Majority",
+    "Gender Description": "Clear female skew",
+    "Vertical Tag": "Beauty & Cosmetics",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 733610.5155089009
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 749089.8935471224
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 706187.8970397424
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 846268.12197485
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 736236.750949788
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 816198.9235068974
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 916182.4428410907
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1131738.9977064284
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1056294.0760341876
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 782263.4312379265
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 690023.4451506492
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 716445.5977653939
+      }
+    ],
+    "TTM_Sessions": 9880540.093,
+    "Industry Average AOV": "$75.57",
+    "Industry Average CVR": "2.73%",
+    "Estimated Revenue Lift": "$4,542,219",
+    "Estimated DTC Revenue Current": "$20,384,157",
+    "Estimated DTC Orders Current": "269,739",
+    "Estimated Blended AOV Current": "$76",
+    "Estimated DTC Revenue After": "$24,926,375",
+    "Estimated DTC Orders After": "322,577",
+    "Estimated Blended AOV After\r": "$77.27\r"
+  },
+  {
+    "_id": "680059568308433daa97d308",
+    "name": "Huel",
+    "website": "huel.com",
+    "vertical": "Food & Beverage",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "US + UK",
+    "Geography Description": "U.S. dominant with major U.K. market",
+    "Device Tag": "Mobile Majority",
+    "Device Split Description": "Majority of sessions from mobile web, but desktop still substantial",
+    "Gender Tag": "Gender Balanced",
+    "Gender Description": "Roughly equal male/female mix",
+    "Vertical Tag": "Food & Beverage",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 2473118.1993478383
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 2562566.8748735785
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 2542222.574389399
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 2550847.456607997
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 2593975.2769956165
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 2316511.974969964
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 2092371.155174267
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 1795749.7163730226
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 1639378.826636611
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 2464234.785195276
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 2024596.669988636
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 2354696.058293049
+      }
+    ],
+    "TTM_Sessions": 27410269.57,
+    "Industry Average AOV": "$80.09",
+    "Industry Average CVR": "2.19%",
+    "Estimated Revenue Lift": "$10,712,997",
+    "Estimated DTC Revenue Current": "$48,076,818",
+    "Estimated DTC Orders Current": "600,285",
+    "Estimated Blended AOV Current": "$80",
+    "Estimated DTC Revenue After": "$58,789,815",
+    "Estimated DTC Orders After": "717,872",
+    "Estimated Blended AOV After\r": "$81.89\r"
+  },
+  {
+    "_id": "68005a388308433daa97e83a",
+    "name": "Geologie",
+    "website": "geologie.com",
+    "vertical": "Beauty & Cosmetics",
+    "Age Demographic Tag": "Millennial dominant",
+    "Age Demographic Description": "25–34 is largest segment",
+    "Geography Tag": "U.S.-Centric Global Blend",
+    "Geography Description": "U.S. leads, with diversified global reach",
+    "Device Tag": "Mobile Dominant",
+    "Device Split Description": "Strong mobile skew—clearly app-ready audiences",
+    "Gender Tag": "Male Core Audience",
+    "Gender Description": "Clear male skew",
+    "Vertical Tag": "Beauty & Cosmetics",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 325181.1067287461
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 302436.384056475
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 317024.4631744454
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 279393.02631469455
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 284122.96972786356
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 304828.04138401255
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 218862.64022347983
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 205060.56640439207
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 154530.72403254182
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 289142.0443692131
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 169439.4619398099
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 160809.64096136723
+      }
+    ],
+    "TTM_Sessions": 3010831.069,
+    "Industry Average AOV": "$75.57",
+    "Industry Average CVR": "2.73%",
+    "Estimated Revenue Lift": "$1,384,120",
+    "Estimated DTC Revenue Current": "$6,211,528",
+    "Estimated DTC Orders Current": "82,196",
+    "Estimated Blended AOV Current": "$76",
+    "Estimated DTC Revenue After": "$7,595,648",
+    "Estimated DTC Orders After": "98,297",
+    "Estimated Blended AOV After\r": "$77.27\r"
+  },
+  {
+    "_id": "68005a568308433daa97eb02",
+    "name": "Aligne",
+    "website": "aligne.co",
+    "vertical": "Fashion & Apparel",
+    "Age Demographic Tag": "Young-Millennial lean",
+    "Age Demographic Description": "25–34 is largest; no band ≥ 30%; no adjacent pair ≥ 50%",
+    "Geography Tag": "UK Dominant",
+    "Geography Description": "U.K. is the primary traffic source",
+    "Device Tag": "Mobile Emerging",
+    "Device Split Description": "Most shoppers still on desktop",
+    "Gender Tag": "Female Core Audience",
+    "Gender Description": "Overwhelmingly female audience",
+    "Vertical Tag": "Fashion & Apparel",
+    "Sessions_JSON": [
+      {
+        "date": "2024-04-01T00:00:00.000Z",
+        "visits": 189139.53683836234
+      },
+      {
+        "date": "2024-05-01T00:00:00.000Z",
+        "visits": 168470.954014663
+      },
+      {
+        "date": "2024-06-01T00:00:00.000Z",
+        "visits": 152340.29583920076
+      },
+      {
+        "date": "2024-07-01T00:00:00.000Z",
+        "visits": 186619.3388972003
+      },
+      {
+        "date": "2024-08-01T00:00:00.000Z",
+        "visits": 184552.52704100305
+      },
+      {
+        "date": "2024-09-01T00:00:00.000Z",
+        "visits": 172848.8236249811
+      },
+      {
+        "date": "2024-10-01T00:00:00.000Z",
+        "visits": 176799.08328224954
+      },
+      {
+        "date": "2024-11-01T00:00:00.000Z",
+        "visits": 157970.38972984298
+      },
+      {
+        "date": "2024-12-01T00:00:00.000Z",
+        "visits": 160998.1241199857
+      },
+      {
+        "date": "2025-01-01T00:00:00.000Z",
+        "visits": 160576.6287847873
+      },
+      {
+        "date": "2025-02-01T00:00:00.000Z",
+        "visits": 179527.29280680983
+      },
+      {
+        "date": "2025-03-01T00:00:00.000Z",
+        "visits": 267799.6112700239
+      }
+    ],
+    "TTM_Sessions": 2157642.606,
+    "Industry Average AOV": "$92.67",
+    "Industry Average CVR": "2.04%",
+    "Estimated Revenue Lift": "$908,917",
+    "Estimated DTC Revenue Current": "$4,078,954",
+    "Estimated DTC Orders Current": "44,016",
+    "Estimated Blended AOV Current": "$93",
+    "Estimated DTC Revenue After": "$4,987,871",
+    "Estimated DTC Orders After": "52,638",
+    "Estimated Blended AOV After\r": "$94.76\r\n"
+  }
+]
